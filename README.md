@@ -7,7 +7,7 @@
   <style>
 </head>
 <body
-  <h1>Wlecome to my Portfolio</h1>
+  <h1>Wlecome to my Page</h1>
   <p> Welcome to my personal website. Some of My avortie video goesm is <strong> College Football 26</strong>, to adventave games like <em> Read Dead Redemption 2.</em></p>
   <p>I usally do not have time to play video games lately but when I do it is College Football 26. It is my favorite games because I can play as the Kansas State Wildcats.</p>
   <p>But when I get bored of playing College Football 26 I play Read Dead Redemption 2. It is easily my favortie Rockstar game I can spend hours just roaming around the map.</p>
@@ -15,6 +15,7 @@
   <p>
     Get to know more about me <a href+"about.html">about me</a> or you can take a look at my <a href="resume.html">resume</a>.
   </p>
+  
   <hr>
     <h2>Tic Tac Toe</h2>
     <p id="status">Player X's Turn</p>
