@@ -3,7 +3,7 @@
 <head>
   <meta charset = "UTF-8">
   <title> My Personal Website</title>
-  <link rel="stylesheet" type ="text/css" href="fancy.css"
+  <link rel="stylesheet" type ="text/css" href="fancy.css">
   <style>
 </head>
 <body>
