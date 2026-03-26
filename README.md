@@ -14,21 +14,20 @@
   <p>Those are some of the video games I like to play on my <strong> FREE TIME!</strong> Which is rarely during the semester. But it does make it more enjoyable when I do get to play</p>
   <p>
     Get to know more about me <a href="about.html">about me</a> or you can take a look at my <a href="resume.html">resume</a>.
-  </p>
-  
+  </p>  
   <hr>
-    <h2>Tic Tac Toe</h2>
-    <p id="status">Player X's Turn</p>
-    <div id="board">
-        <button onclick="play(0)"></button>
-        <button onclick="play(1)"></button>
-        <button onclick="play(2)"></button><br>
-        <button onclick="play(3)"></button>
-        <button onclick="play(4)"></button>
-        <button onclick="play(5)"></button><br>
-        <button onclick="play(6)"></button>
-        <button onclick="play(7)"></button>
-        <button onclick="play(8)"></button>
+  <h2>Tic Tac Toe</h2>
+  <p id="status">Player X's Turn</p>
+  <div id="board">
+      <button onclick="play(0)"></button>
+      <button onclick="play(1)"></button>
+      <button onclick="play(2)"></button><br>
+      <button onclick="play(3)"></button>
+      <button onclick="play(4)"></button>
+      <button onclick="play(5)"></button><br>
+      <button onclick="play(6)"></button>
+      <button onclick="play(7)"></button>
+      <button onclick="play(8)"></button>
     </div>
     <script src="script.js"></script>
 </body>
