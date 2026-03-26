@@ -1,0 +1,38 @@
+* 1. Change background color */
+body {
+    background-color: #f4f7f6; 
+    margin: 40px;
+}
+
+/* 2. Change paragraph font */
+p {
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+    color: #333;
+}
+
+/* 3. Change header sizes */
+h1 {
+    font-size: 45px;
+    color: #2c3e50;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+/* 4. Change link colors */
+a {
+    color: #1a5a96;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Styling for your Tic-Tac-Toe buttons */
+#board button {
+    width: 70px;
+    height: 70px;
+    font-size: 24px;
+    margin: 2px;
+    cursor: pointer;
+}
